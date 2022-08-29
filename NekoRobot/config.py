@@ -14,21 +14,21 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 1234567  # integer value, dont use ""
-    API_HASH = "123458494"
+    API_ID = 16596628  # integer value, dont use ""
+    API_HASH = "421764a823ee2dff786d413aea09959f"
     TOKEN = "5096800645:AAEqiDu0tIAz6Tj5mNPP38R9AyfzEWr1SO0"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1732814103  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "DarlingPrince"
-    SUPPORT_CHAT = "BlackLover_Support"  # Your own group for support, do not add the @
+    OWNER_ID = 5136746907  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "wajirrr"
+    SUPPORT_CHAT = "xteamBDChat"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001739802989
+        -1001761930779
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001739802989
+        -1001761930779
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = "postgres://tluamgmb:wzHC-TipPrkuPGtbqHUpVNeGpqicuQCV@castor.db.elephantsql.com/tluamgmb"  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = "postgres://sgdbywqn:nb8GpFMCk3LYqpXCxYFd669AoBKYhOyv@jelani.db.elephantsql.com/sgdbywqn"  # needed for any database modules
     DB_URL = "postgresql://postgres:IE2wA6q9yKhLpaqeJ0RT@containers-us-west-17.railway.app:5819/railway"
     REDIS_URL = ""
     LOAD = []
@@ -94,17 +94,17 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 1234567  # integer value, dont use ""
-    API_HASH = "12345abcdefg23459"
+    API_ID = 16596628  # integer value, dont use ""
+    API_HASH = "421764a823ee2dff786d413aea09959f"
     TOKEN = "5794945691:AAEkJf3WxkPEQp39dRXkkCedVfmtHJOiF3s"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1732814103  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "DarlingPrince"
-    SUPPORT_CHAT = "BlackLover_Support"  # Your own group for support, do not add the @
+    OWNER_ID = 5136746907  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "wajirrr"
+    SUPPORT_CHAT = "xteamBDChat"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001739802989
+        -1001761930779
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001739802989
+        -1001761930779
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
