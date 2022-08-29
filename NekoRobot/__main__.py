@@ -131,9 +131,9 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
-        InlineKeyboardButton(text="❔ Chit Chat", url="https://telegram.dog/Besties_XD"),
+        InlineKeyboardButton(text="❔ Chit Chat", url="https://telegram.dog/Xteambd"),
         InlineKeyboardButton(
-            text="[► Repo ◄]", url="https://github.com/Awesome-Prince/NekoRobot-3"
+            text="[► Owner ◄]", url="https://t.me/Noob_xd"
         ),
     ],
     [
@@ -141,7 +141,7 @@ buttons = [
             text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
         ),
         InlineKeyboardButton(
-            text="📢 Updates", url="https://telegram.dog/BlackLover_Support"
+            text="📢 Updates", url="https://telegram.dog/Botmakerbd"
         ),
     ],
 ]
@@ -304,7 +304,7 @@ def start(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="📢 Updates",
-                            url="https://telegram.dog/BlackLover_Updates",
+                            url="https://telegram.dog/BotMakerBD",
                         ),
                     ]
                 ]
@@ -666,7 +666,7 @@ def donate(update: Update, context: CallbackContext) -> None:
                         [
                             InlineKeyboardButton(
                                 text="📢 Updates",
-                                url="https://telegram.dog/BlackLover_Updates",
+                                url="https://telegram.dog/Xteambdchat",
                             ),
                             InlineKeyboardButton(
                                 text="🚑 Support",
