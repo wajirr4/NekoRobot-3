@@ -16,7 +16,7 @@ class Config(object):
 
     API_ID = 16596628  # integer value, dont use ""
     API_HASH = "421764a823ee2dff786d413aea09959f"
-    TOKEN = "5096800645:AAEqiDu0tIAz6Tj5mNPP38R9AyfzEWr1SO0"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "5791754081:AAEncLkl1PHrZIrSGCQosLDyJHbJHABLBIo"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5136746907  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "wajirrr"
     SUPPORT_CHAT = "xteamBDChat"  # Your own group for support, do not add the @
@@ -96,7 +96,7 @@ class Config(object):
 
     API_ID = 16596628  # integer value, dont use ""
     API_HASH = "421764a823ee2dff786d413aea09959f"
-    TOKEN = "5794945691:AAEkJf3WxkPEQp39dRXkkCedVfmtHJOiF3s"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "5791754081:AAEncLkl1PHrZIrSGCQosLDyJHbJHABLBIo"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5136746907  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "wajirrr"
     SUPPORT_CHAT = "xteamBDChat"  # Your own group for support, do not add the @
